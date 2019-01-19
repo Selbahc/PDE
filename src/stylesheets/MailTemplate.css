@@ -1,0 +1,13 @@
+.mail-template {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: space-around;
+    font-size: .7em;
+}
+.corps-mail {
+    font-size: 1.4em;
+}
+.vh-reset {
+    height: unset;
+}

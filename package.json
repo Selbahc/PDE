@@ -1,0 +1,25 @@
+{
+  "name": "PDE",
+  "version": "1.0.0",
+  "description": "Application pour un jeu d'escape game",
+  "homepage": "https://selbahc.github.io/PDE",
+  "main": "index.js",
+  "author": "Selbahc",
+  "license": "GNU GPLv3",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "dev": "parcel public/index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^6.26.3",
+    "parcel-bundler": "^1.11.0"
+  },
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-scripts": "^2.1.3"
+  }
+}
