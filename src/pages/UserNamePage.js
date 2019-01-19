@@ -37,6 +37,7 @@ export default class UserNamePage extends Component {
     if (!this.state.guessedUserName) {
       return (
         <>
+          <p>Mot de passe valide, bienvenue chez Escape Travel !</p>
           <h1>Identifiant</h1>
           <form>
             <input
